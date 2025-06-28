@@ -38,7 +38,7 @@ This project walks through the **full AI development lifecycle**, covering every
 
 ## 🧱 Project Structure
 
-``
+```
 AI-Workflow/
 ├── data/
 │ ├── student-por.csv # Raw dataset from UCI
@@ -58,7 +58,7 @@ AI-Workflow/
 └── AI Problem Analysis Report.pdf
 └──report.md # Full write-up
 
-``
+```
 
 ---
 
@@ -74,7 +74,7 @@ cd AI-Workflow
 python -m venv .venv
 source .venv/Scripts/activate # Windows
 
-# OR
+## OR
 
 source .venv/bin/activate # macOS/Linux
 
@@ -117,8 +117,10 @@ Use the interactive Swagger UI to test /predict.
 
 ### Confusion Matrix:
 
-`[[44  9]
- [ 1 44]]`
+```
+[[44  9]
+ [ 1 44]]
+```
 
 -- Precision: 0.83
 
