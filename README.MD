@@ -6,12 +6,6 @@ This project walks through the **full AI development lifecycle**, covering every
 
 ---
 
-### 📎 Medium Article
-
-📖 Full write-up with insights and breakdowns:  
-➡️ [Read on Medium →](https://medium.com/@codegnerdev/a-hands-on-walkthrough-of-a-complete-ai-pipeline-from-data-preprocessing-to-model-deployment-c0b28d3d6713)
-
----
 
 ## 👨‍💻 Contributors
 
