@@ -29,13 +29,6 @@ This project walks through the **full AI development lifecycle**, covering every
 
 ---
 
-## 🧠 Contributors
-
-- **Fred Kibutu (@KibutuJr)** – Model implementation, evaluation, FastAPI deployment
-- **[Partner Name]** – AI problem framing, healthcare case study, ethics and strategy
-
----
-
 ## 🧱 Project Structure
 
 ```
