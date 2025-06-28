@@ -133,11 +133,11 @@ Use the interactive Swagger UI to test /predict.
 ### 📉 AI Development Workflow Diagram
 
 -- Located in: `diagram.drawio/diagram.drawio`  
--- Exported as: `diagram.drawio/Diagram Draw.png`
+-- Exported as: `diagram.drawio/Diagram Drawio.png`
 
 This diagram outlines the complete AI workflow followed in this project:
 
-![AI Workflow Diagram](diagram.drawio/Diagram%20Draw.png)
+![AI Workflow Diagram](diagram.drawio/Diagram%20Drawio.png)
 
 **Stages covered:**
 1. Problem Definition  
@@ -148,6 +148,7 @@ This diagram outlines the complete AI workflow followed in this project:
 6. Deployment  
 7. Monitoring & Feedback  
 8. Ethics & Bias Review
+
 
 ---
 
