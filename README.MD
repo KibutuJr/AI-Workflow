@@ -128,26 +128,26 @@ Use the interactive Swagger UI to test /predict.
 
 -- Model: Random Forest with 100 trees, max depth = 5
 
+---
+
 ### 📉 AI Development Workflow Diagram
 
--- Located in: diagram.drawio
--- Exported: Diagram Drawio.png
+-- Located in: `diagram.drawio/diagram.drawio`  
+-- Exported as: `diagram.drawio/Diagram Draw.png`
 
-## Stages covered:
+This diagram outlines the complete AI workflow followed in this project:
 
-- Problem Definition
+![AI Workflow Diagram](diagram.drawio/Diagram%20Draw.png)
 
-- Data Collection
-
-- Preprocessing
-
-- Modeling
-
-- Evaluation
-
-- Deployment
-
-- Ethics & Reflection
+**Stages covered:**
+1. Problem Definition  
+2. Data Collection  
+3. Preprocessing  
+4. Model Training  
+5. Evaluation  
+6. Deployment  
+7. Monitoring & Feedback  
+8. Ethics & Bias Review
 
 ---
 
@@ -162,6 +162,8 @@ Use the interactive Swagger UI to test /predict.
 - U.S. Department of Health & Human Services. (1996). HIPAA Privacy Rule. https://www.hhs.gov/hipaa/for-professionals/privacy/index.html
 
 - Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python. JMLR. http://jmlr.org/papers/v12/pedregosa11a.html
+
+---
 
 ### 💡 Reflection
 
