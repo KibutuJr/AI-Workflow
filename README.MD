@@ -53,7 +53,7 @@ AI-Workflow/
 
 ### 1. Clone the repository
 
-git clone https://github.com/KibutuJr/AI-Workflow.git
+git clone 
 cd AI-Workflow
 
 ### 2. Set up virtual environment

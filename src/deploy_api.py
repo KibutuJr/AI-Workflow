@@ -13,10 +13,6 @@ with open("models/readmit_model.pkl", "rb") as f:
 # Create FastAPI app
 app = FastAPI()
 
-@app.get("/")
-def root():
-    return {"message": "Student Performance Prediction API", "endpoint": "POST /predict"}
-
 @app.post("/predict")
 def predict(payload: Payload):
     """
